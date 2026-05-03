@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<!--
-**SebastianBautistaNarbaja/SebastianBautistaNarbaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+  Hi, I'm Sebastian Bautista
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&center=true&width=440&height=45"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+- 👨‍💻 View my portfolio <a href="https://sebastianbautistanarbaja.github.io/MiPortafolio/">here</a>
+- 🌱 My latest project <a href="https://github.com/SebastianBautistaNarbaja/SeldPracticeApp">here</a>
+
+<br>
+<br>
+<br>
+
+<h1 align=center>Tecnologías conocidas</h1>
+  <div align=center>
+  <img src="https://skillicons.dev/icons?i=html,css"/>
+  <img src="https://skillicons.dev/icons?i=idea,java,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+</div>
+
+<br>
+<br>
+<br>
+
+<h1 align=center>Mi Actividad</h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SebastianBautistaNarbaja&theme=react-dark)](https://github.com/SebastianBautistaNarbaja)
+
+<br>
+<br>
+
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
+![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
