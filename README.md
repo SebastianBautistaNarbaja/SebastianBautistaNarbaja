@@ -24,7 +24,7 @@
 <h1 align=center>Tecnologías conocidas</h1>
 <div align=center>
   <img src="https://skillicons.dev/icons?i=html,css"/>
-  <img src="https://skillicons.dev/icons?i=idea,java,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=idea,linux,vscode,java,mysql&theme=light" />
   <img src="https://skillicons.dev/icons?i=docker&theme=light" />
   <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
 </div>
