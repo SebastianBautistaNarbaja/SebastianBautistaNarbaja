@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&center=true&width=440&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&center=true&width=440&height=45">
 </p>
 
 
@@ -22,7 +22,7 @@
 <br>
 
 <h1 align=center>Tecnologías conocidas</h1>
-  <div align=center>
+<div align=center>
   <img src="https://skillicons.dev/icons?i=html,css"/>
   <img src="https://skillicons.dev/icons?i=idea,java,mysql&theme=light" />
   <img src="https://skillicons.dev/icons?i=docker&theme=light" />
